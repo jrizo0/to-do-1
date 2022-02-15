@@ -1,7 +1,6 @@
 import tw from 'tailwind-react-native-classnames';
 import React from 'react';
-import { View, Text, StyleSheet} from 'react-native'
-import { TouchableOpacity } from 'react-native';
+import { View, Text, TouchableOpacity} from 'react-native'
 
 const Task = (props) =>{
     return (
